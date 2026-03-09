@@ -1,2 +1,2 @@
 def greet(name):
-    return f"Hello, {name} from main branch!"
+    return f"Hello, {name}!"
